@@ -1,0 +1,30 @@
+{
+  "name": "stars-chatbot",
+  "version": "1.0.0",
+  "description": "dnomak.com/youtube chatbotu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "yavuz kömeçoğlu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "graphql-fetch": "^1.0.1",
+    "jsonfile": "^2.3.1",
+    "multer": "1.1.0",
+    "request": "^2.72.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yavuzKomecoglu/stars-chatbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yavuzKomecoglu/stars-chatbot/issues"
+  },
+  "homepage": "https://github.com/yavuzKomecoglu/stars-chatbot/",
+  "keywords": [
+    "stars"
+  ]
+}
