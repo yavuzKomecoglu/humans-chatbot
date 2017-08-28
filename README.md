@@ -1,5 +1,5 @@
 # Humans ChatBot - Facebook Messenger Bot
-[![Express Logo](http://yavuzz.com/humans-chatbot/messenger_code.jpg)](https://humas-chatbot.herokuapp.com/)
+[![Express Logo](http://yavuzz.com/humans-chatbot/messenger_code.jpg)](https://humans-chatbot.herokuapp.com/)
 
 ## Messenger Us
 [![Express Logo](http://yavuzz.com/humans-chatbot/fb_connect.png)](https://m.me/825654834274575)
