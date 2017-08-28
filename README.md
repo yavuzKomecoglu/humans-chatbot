@@ -8,6 +8,6 @@
 https://youtu.be/Lfc3ql4Y3cI
 
 ## Website
-https://humas-chatbot.herokuapp.com/
+https://humans-chatbot.herokuapp.com/
 
 Source Web Site: http://dnomak.com/youtube
